@@ -1,3 +1,5 @@
+Source: https://events.drupal.org/code-conduct
+
 <h1 class="page-title">Code of Conduct</h1>
 
 <p>DrupalCon is dedicated to a safe, inclusive, welcoming, and harassment-free conference experience for everyone. All attendees, speakers, trainers, sponsors, volunteers, vendors, and event staff at DrupalCon are required to abide by the DrupalCon Code of Conduct at the conference and at social or other events hosted or sponsored by DrupalCon sponsors.</p>
